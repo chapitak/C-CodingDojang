@@ -1,0 +1,4 @@
+﻿  integer_overflow.c
+c:\users\o\documents\visual studio 2015\projects\cdojang\integer.c\integer_overflow.c\integer_overflow.c(7): warning C4305: '초기화 중': 'int'에서 'unsigned char'(으)로 잘립니다.
+  integer_overflow.c.vcxproj -> C:\Users\O\Documents\Visual Studio 2015\Projects\cdojang\integer.c\Debug\integer_overflow.c.exe
+  integer_overflow.c.vcxproj -> C:\Users\O\Documents\Visual Studio 2015\Projects\cdojang\integer.c\Debug\integer_overflow.c.pdb (Full PDB)
