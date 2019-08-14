@@ -1,0 +1,2 @@
+﻿  scanf.c
+LINK : fatal error LNK1168: C:\Users\O\Documents\Visual Studio 2015\Projects\cdojang\integer.c\Debug\scanf_real_number.exe을(를) 쓰기용으로 열 수 없습니다.
